@@ -1,0 +1,6 @@
+This Group Project comprises a Client Server Architecture based in TCP, UDP and RMI.
+Group Members : Laiba Masood & Nasir Hussain
+Registration Number : 04072013002 & 04072013040
+
+
+NetCentric Programming
